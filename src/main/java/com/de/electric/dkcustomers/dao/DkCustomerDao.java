@@ -17,8 +17,8 @@ public class DkCustomerDao {
                 new DkCustomer( 1,"John", "john@gmail.com"),
                 new DkCustomer( 2,"Peter", "peter@gmail.com"),
                 new DkCustomer( 3,"Adam", "adam@gmail.com"),
-                new DkCustomer( 3,"Eric", "eric@gmail.com"),
-                new DkCustomer( 3,"Jack", "jack@gmail.com")
+                new DkCustomer( 4,"Eric", "eric@gmail.com"),
+                new DkCustomer( 5,"Jack", "jack@gmail.com")
         ).collect(Collectors.toList());
     }
 }

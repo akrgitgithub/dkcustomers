@@ -12,7 +12,7 @@
 	<artifactId>dkcustomers</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>dkcustomers</name>
-	<description>customers project for tests</description>
+	<description>Dk customers project for tests</description>
 	<properties>
 		<java.version>11</java.version>
 	</properties>
